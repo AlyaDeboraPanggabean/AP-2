@@ -10,7 +10,7 @@ int main () {
     a = 3;
     b = 5;
 
-    // Arithmetical Operator
+    // Arithmetical Operator, yaitu operator untuk operasi matematika
     // int tambah = a + b;
     // int kurang = a - b;
     // int kali = a * b;
